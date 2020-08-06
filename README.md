@@ -1,4 +1,4 @@
-### Hey there, I'm Tyler 👋
+# Hey there, I'm Tyler 👋
 
 ### Connect with me:
 
