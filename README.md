@@ -4,8 +4,6 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -28,7 +26,5 @@
 <br />
 <br />
 
-[website]: https://tyler.dev
-[twitter]: https://twitter.com/tylerdotdev
-[instagram]: https://instagram.com/tylerdotdev
-[linkedin]: https://linkedin.com/in/mtanton/
+[website]: https://antonlabs.io
+[twitter]: https://twitter.com/antonlabsio
